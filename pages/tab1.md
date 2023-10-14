@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tab 1
+title: Publications
 ---
 
 ## Tab 1 Content
 
-this is tab 1
+this is tab Publications
