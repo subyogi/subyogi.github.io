@@ -21,11 +21,11 @@
 title: Subhash Chand Yogi
 email: subyogi@iitk.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
+ 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: subyogi_1
 github_username:  subyogi
+linkedin_username: click here
 
 # Build settings
 theme: minima
@@ -33,6 +33,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+#  - jekyll-youtube
+
+#     config:
+#      posts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
