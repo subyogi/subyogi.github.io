@@ -27,17 +27,17 @@ title: Publications
 ## Conferences
 <ol class="square-bracket-list">
 <!--  1 -->
-  <li> Subhash Chand Yogi, Vibhu Kumar Tripathi, Archit Krishna Kamath, and Laxmidhar Behera, ”Q-learning BasedNavigation of a Quadrotor using Non-singular Terminal Sliding Mode Control,” 2019 28th IEEE International Con-ference on Robot and Human Interactive Communication (RO-MAN), New Delhi, India, 2019, pp. 1-6. </li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, Vibhu Kumar Tripathi, Archit Krishna Kamath, and Laxmidhar Behera, ”<b>Q-learning Based Navigation of a Quadrotor using Non-singular Terminal Sliding Mode Control,</b>” <i>2019 28th IEEE International Con-ference on Robot and Human Interactive Communication (RO-MAN)</i>, New Delhi, India, 2019, pp. 1-6. </li>
 <!--  2 -->
-  <li> Subhash Chand Yogi, and Laxmidhar Behera, ”A Control Strategy for the Prevention of Cyber-Physical SwitchingAttacks on Smart Grids,” 2019 Sixth Indian Control Conference (ICC), Hyderabad, India, 2019, pp. 455-460.</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, and Laxmidhar Behera, ”<b>A Control Strategy for the Prevention of Cyber-Physical Switching Attacks on Smart Grids,</b>” <i>2019 Sixth Indian Control Conference (ICC)</i>, Hyderabad, India, 2019, pp. 455-460.</li>
 <!--  3 -->
-  <li> Subhash Chand Yogi, Vibhu Kumar Tripathi, Archit Krishna Kamath, and Laxmidhar Behera, ”Real-time TrajectoryTracking of a Quadrotor using Adaptive Backstepping Controller and RNN based Uncertainty Observer,” 2020 In-ternational Joint Conference on Neural Networks (IJCNN), Glasgow, UK, 2020, pp. 1-8.</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, Vibhu Kumar Tripathi, Archit Krishna Kamath, and Laxmidhar Behera, ”<b>Real-time Trajectory Tracking of a Quadrotor using Adaptive Backstepping Controller and RNN based Uncertainty Observer,</b>” <i>2020 In-ternational Joint Conference on Neural Networks (IJCNN)</i>, Glasgow, UK, 2020, pp. 1-8.</li>
 <!--  4 -->
-  <li> SubhashChandYogi, andLaxmidharBehera, ”AnIntelligentRobustControlStrategyforanUncertainQuadrotor,”2021IEEEInternationalConferenceonSystems,Man,andCybernetics(SMC),Melbourne,Australia,2021,pp. 1985-1991.</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, and Laxmidhar Behera, ”<b>An Intelligent Robust Control Strategy for an Uncertain Quadrotor,</b>” <i>2021 IEEE International Conference on Systems, Man, and Cybernetics(SMC)</i>, Melbourne, Australia, 2021, pp. 1985-1991.</li>
 <!--  5 -->
-  <li> Subhash Chand Yogi, Kamath„ Padmini Singh and Laxmidhar Behera, ”Trajectory Tracking Control of a QuadrotorUAV using an Auto-tuning Robust Sliding Mode Controller,” 2022 International Conference on Unmanned Aircraft Systems (ICUAS), Dubrovnik, Croatia, 2022, pp. 345-353,</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, Archit Krishna Kamath Padmini Singh and Laxmidhar Behera, ”<b> Trajectory Tracking Control of a QuadrotorUAV using an Auto-tuning Robust Sliding Mode Controller,</b>” <i>2022 International Conference on Unmanned Aircraft Systems (ICUAS)</i>, Dubrovnik, Croatia, 2022, pp. 345-353,</li>
 <!--  6 -->
-  <li> Subhash Chand Yogi, Ashish Kumar, and Laxmidhar Behera. ”A Robust Control Strategy for Visually GuidedQuadrotor Navigation”, (Under Review)</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, Ashish Kumar, and Laxmidhar Behera. ”<b> A Robust Control Strategy for Visually GuidedQuadrotor Navigation,</b>” (Under Review)</li>
   <li> Item 3</li>
 <!--  7 -->
   <li> Item 3</li>

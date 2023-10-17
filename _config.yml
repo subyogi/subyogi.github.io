@@ -32,7 +32,6 @@ theme: minima
 
 plugins:
   - jekyll-feed
-
 #  - jekyll-youtube
 
 #     config:
