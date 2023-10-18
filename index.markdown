@@ -5,7 +5,7 @@
 layout: home
 ---
 <div style="float: left; margin-right: 20px;">
-   <img src="/image/cropped.png" alt="Image Alt Text" style="width: 120px; height: auto;">
+   <img src="/image/cropped.png" alt="Image Alt Text" style="width: 150px; height: auto;">
 </div>
 
 I am about to graduate with my PhD at <a href="https://www.iitk.ac.in" class="highlighted">IIT kanpur India</a> in 
@@ -13,11 +13,22 @@ I am about to graduate with my PhD at <a href="https://www.iitk.ac.in" class="hi
 of <a href="https://iitmandi.ac.in/director.php" class="highlighted">Prof. Laxmidhar Behera</a> and
 <a href="https://www.iitk.ac.in/new/twinkle-tripathy" class="highlighted">Dr. Twinkle Tripathy</a>. 
 I am passionate about learning based control schemes and path planning for robotic systems specially for quadrotor UAVs with real-world implementation.
-#### <a class="highlighted">Research intrests: </a> Quadrotor Control, Adaptive Learning & Control, Neural Networks, Sliding Mode Control, Learning by Demonstration, Vision Based Control.
+<!-- #### <a class="highlighted">Research intrests: </a> Quadrotor Control, Adaptive Learning & Control, Neural Networks, Sliding Mode Control, Learning by Demonstration, Vision Based Control.-->
+
 Email: <a class="highlighted">subyogi@iitk.ac.in</a> \\
 Google Scholar: <a href="https://scholar.google.co.in/citations?user=rlVR6bYAAAAJ&hl=en" class="highlighted">Click here</a>
 
-### <b> Hand on Hardware platforms </b>
+### <a class="highlighted"> <b>Research intrests: </b>
+<ul>
+  <li> Quadrotor Control </li>
+  <li> Adaptive Learning & Control </li>
+  <li> Neural Networks </li>
+  <li> Sliding Mode Control </li>
+  <li> Learning by Demonstration </li>
+  <li> Vision Based Control </li>
+</ul>
+
+### <a class="highlighted"> <b> Hands on Hardware platforms </b>
 <head>
     <style>
         /* Style for the two columns */
