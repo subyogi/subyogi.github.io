@@ -18,7 +18,7 @@ I am passionate about learning based control schemes and path planning for robot
 Email: <a class="highlighted">subyogi@iitk.ac.in</a> \\
 Google Scholar: <a href="https://scholar.google.co.in/citations?user=rlVR6bYAAAAJ&hl=en" class="highlighted">Click here</a>
 
-### <a class="highlighted"> <b>Research intrests: </b>
+### <a class="highlighted"> <b>Research interests: </b>
 <ul>
   <li> Quadrotor Control </li>
   <li> Adaptive Learning & Control </li>
