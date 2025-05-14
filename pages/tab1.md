@@ -14,13 +14,13 @@ title: Publications
 <!--  2 -->
   <li> <a class="highlighted">Subhash Chand Yogi</a>, Laxmidhar Behera and Saeid Nahavandi, ”<b>Adaptive Intelligent Minimum Parameter Singularity Free Sliding Mode Controller Design for Quadrotor</b>”, <i>IEEE Transactions on Automation Science and Engineering</i>, Mar. 2023, doi: 10.1109/TASE.2023.3243660.</li>
 <!--  3 -->
-  <li> Vibhu Kumar Tripathi, <a class="highlighted">Subhash Chand Yogi</a>, Archit Krishna Kamath, Laxmidhar Behera, Nishchal K. Verma, andSaeid Nahavandi. ”<b>A Disturbance Observer-Based Intelligent Finite-Time Sliding Mode Flight Controller Design for an Autonomous Quadrotor</b>” <i>IEEE Systems Journal</i>, vol. 16, no. 1, pp. 1649-1660, Mar. 2022.</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, Laxmidhar Behera and Twinkle Tripathy, ”<b>Neural-FxSMC: A Robust Adaptive Neural Fixed-time Sliding Mode Control for Quadrotors with Unknown Uncertainties</b>”, <i>IEEE Robotics & Automation Letters </i> , vol. 9, no. 6, pp. 5927-5932, 2024.</li>
 <!--  4 -->
-  <li> <a class="highlighted">Subhash Chand Yogi</a>, Md. Waris Khan and Laxmidhar Behera, ”<b>Learning to Navigate a Quadrotor Through Multiple Arbitrary Shaped Window Gaps</b>”, <i>IEEE/ASME Transactions on Mechatronics </i> (Under Review).</li>
+  <li> Vibhu Kumar Tripathi, <a class="highlighted">Subhash Chand Yogi</a>, Archit Krishna Kamath, Laxmidhar Behera, Nishchal K. Verma, andSaeid Nahavandi. ”<b>A Disturbance Observer-Based Intelligent Finite-Time Sliding Mode Flight Controller Design for an Autonomous Quadrotor</b>” <i>IEEE Systems Journal</i>, vol. 16, no. 1, pp. 1649-1660, Mar. 2022.</li>
 <!--  5 -->
-  <li> <a class="highlighted">Subhash Chand Yogi</a>, Laxmidhar Behera and Twinkle Tripathy, ”<b>Adaptive Neural Fixed-time Sliding Mode Controlfor Quadrotor Without A priori Bounded Uncertainties</b>”, <i>IEEE Robotics & Automation Letters </i> (Under Review).</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, Md. Waris Khan and Laxmidhar Behera, ”<b>Learning to Navigate a Quadrotor Through Multiple Arbitrary Shaped Window Gaps</b>”, <i>IEEE Transactions on Control Systems Technology </i> (Under Review).</li>
 <!--  6 -->
-  <li> <a class="highlighted">Subhash Chand Yogi</a>, Md Waris Khan and Laxmidhar Behera, ”<b>Adaptive Learning based Fixed-time Sliding ModeControl Scheme for Uncertain Quadrotors with Experiments</b>”, <i>IEEE Control Systems Letters </i> (Under Review).</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, Md Waris Khan and Laxmidhar Behera, ”<b>Adaptive Learning based Fixed-time Sliding ModeControl Scheme for Uncertain Quadrotors with Experiments</b>”, <i>IEEE Transactions on Industrial Electronics </i> (Revision to be suibmitted).</li>
 <!--  7 -->
   <li> Padmini Singh, <a class="highlighted">Subhash Chand Yogi</a>, Laxmidhar Behera, Nishchal K. Verma, Saeid Nahavandi, ”<b>Passivity BasedEvent-triggered Control for Mobile Robot in Presence of Network Uncertainties</b>”, <i>IEEE Transactions on Cybernatics </i> (Under Revision).</li>
 </ol>
