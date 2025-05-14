@@ -8,7 +8,7 @@ layout: home
    <img src="/image/cropped.png" alt="Image Alt Text" style="width: 150px; height: auto;">
 </div>
 
-I am Subhash Chand Yogi, currently an Assistant Professor in the Department of Electrical Engineering at <a href="https://www.iitk.ac.in" class="highlighted">Indian Institute of Technology Kanpur, India</a>. I have received my PhD from 
+I am Subhash Chand Yogi, currently an Assistant Professor in the <a href="[https://www.iitr.ac.in](https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/101087.html)" class="highlighted">Department of Electrical Engineering </a> at <a href="[https://www.iitr.ac.in](https://iitr.ac.in)" class="highlighted">Indian Institute of Technology Roorkee, India</a>. I have received my PhD from 
 <a href="https://www.iitk.ac.in" class="highlighted">Indian Institute of Technology Kanpur, India</a> under the guidance 
 of <a href="https://iitmandi.ac.in/director.php" class="highlighted">Prof. Laxmidhar Behera</a> and
 <a href="https://www.iitk.ac.in/new/twinkle-tripathy" class="highlighted">Dr. Twinkle Tripathy</a>. 
