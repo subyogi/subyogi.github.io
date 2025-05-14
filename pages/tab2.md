@@ -15,7 +15,7 @@ title: Projects
  </li>
 <!--  2 -->
   <li> <a class="highlighted">Software and Hardware Development of Quadrotor with Static and Moving Platform Landing:</a>
-The objective was to customize a quadrotor from scratch to fix 2 cameras, onboard computer, battery, landing gear in a compact way. Main task was to have navigation facility in GPS-denied environment. In addition, the quadrotor should be able to land precisely on both static and moving vehicles. 
+The objective was to customize a quadrotor from scratch to fix 2 cameras, onboard computer, battery, landing gear in a compact way. Main task was to have navigation facility in GPS-denied environment. Additionally, the quadrotor should be able to land precisely on both static and moving vehicles. 
 <body>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/u7ne7ttbsiQ" frameborder="0" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Tj5Ua_ZYavU" frameborder="0" allowfullscreen></iframe>
