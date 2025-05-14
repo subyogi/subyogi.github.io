@@ -22,7 +22,7 @@ title: Publications
 <!--  6 -->
   <li> <a class="highlighted">Subhash Chand Yogi</a>, Md Waris Khan and Laxmidhar Behera, ”<b>Adaptive Learning based Fixed-time Sliding ModeControl Scheme for Uncertain Quadrotors with Experiments</b>”, <i>IEEE Transactions on Industrial Electronics </i> (Revision to be suibmitted).</li>
 <!--  7 -->
-  <li> Padmini Singh, <a class="highlighted">Subhash Chand Yogi</a>, Laxmidhar Behera, Nishchal K. Verma, Saeid Nahavandi, ”<b>Passivity BasedEvent-triggered Control for Mobile Robot in Presence of Network Uncertainties</b>”, <i>IEEE Transactions on Cybernatics </i> (Under Revision).</li>
+  <li> Padmini Singh, <a class="highlighted">Subhash Chand Yogi</a>, Laxmidhar Behera, Nishchal K. Verma, Saeid Nahavandi, ”<b>Passivity Based Event-triggered Control for Mobile Robot in Presence of Network Uncertainties</b>”, <i>IEEE Transactions on Cybernatics </i> (Under Revision).</li>
 </ol>
 
 
