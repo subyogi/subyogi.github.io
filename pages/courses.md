@@ -2,7 +2,7 @@
 layout: default
 title: Courses
 ---
-## <a class="highlighted"> <b> Courses covered </b></a>
+## <a class="highlighted"> <b> Courses covered during PhD</b></a>
 <ol class="square-bracket-list">
   <li> Intelligent Systems and Control </li>
   <li> Neural Networks </li>
