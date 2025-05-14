@@ -8,24 +8,25 @@ layout: home
    <img src="/image/cropped.png" alt="Image Alt Text" style="width: 150px; height: auto;">
 </div>
 
-I am about to graduate with my PhD at <a href="https://www.iitk.ac.in" class="highlighted">IIT kanpur India</a> in 
-<a href="https://www.iitk.ac.in/ee/pg-students-stream-wise-list" class="highlighted">Electrical Engineering Department</a> under the guidance 
+I am Subhash Chand Yogi, currently an Assistant Professor in the Department of Electrical Engineering at <a href="https://www.iitk.ac.in" class="highlighted">Indian Institute of Technology Kanpur, India</a>. I have received my PhD from 
+<a href="https://www.iitk.ac.in" class="highlighted">Indian Institute of Technology Kanpur, India</a> under the guidance 
 of <a href="https://iitmandi.ac.in/director.php" class="highlighted">Prof. Laxmidhar Behera</a> and
 <a href="https://www.iitk.ac.in/new/twinkle-tripathy" class="highlighted">Dr. Twinkle Tripathy</a>. 
 I am passionate about learning based control schemes and path planning for robotic systems specially for quadrotor UAVs with real-world implementation.
-<!-- #### <a class="highlighted">Research intrests: </a> Quadrotor Control, Adaptive Learning & Control, Neural Networks, Sliding Mode Control, Learning by Demonstration, Vision Based Control.-->
+<!-- #### <a class="highlighted">Research intrests: </a> Quadrotor UAVs, Robot Autonomy, Adaptive Learning & Control, Neural Networks, Sliding Mode Control, Learning by Demonstration, End2End implementation-->
 
-Email: <a class="highlighted">subyogi@iitk.ac.in</a> \\
+Email: <a class="highlighted">scyogi@ee.iitr.ac.in</a> \\
 Google Scholar: <a href="https://scholar.google.co.in/citations?user=rlVR6bYAAAAJ&hl=en" class="highlighted">Click here</a>
 
 ### <a class="highlighted"> <b>Research interests: </b>
 <ul>
   <li> Quadrotor Control </li>
+  <li> Robot Autonomy </li>
   <li> Adaptive Learning & Control </li>
   <li> Neural Networks </li>
   <li> Sliding Mode Control </li>
   <li> Learning by Demonstration </li>
-  <li> Vision Based Control </li>
+  <li> End2End implementation </li>
 </ul>
 
 ### <a class="highlighted"> <b> Hands on Hardware platforms </b>
