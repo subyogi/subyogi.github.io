@@ -20,7 +20,7 @@ title: Publications
 <!--  5 -->
   <li> <a class="highlighted">Subhash Chand Yogi</a>, Md. Waris Khan and Laxmidhar Behera, ”<b>Learning to Navigate a Quadrotor Through Multiple Arbitrary Shaped Window Gaps</b>”, <i>IEEE Transactions on Control Systems Technology </i> (Under Review).</li>
 <!--  6 -->
-  <li> <a class="highlighted">Subhash Chand Yogi</a>, Md Waris Khan and Laxmidhar Behera, ”<b>Adaptive Learning based Fixed-time Sliding ModeControl Scheme for Uncertain Quadrotors with Experiments</b>”, <i>IEEE Transactions on Industrial Electronics </i> (Revision to be suibmitted).</li>
+  <li> <a class="highlighted">Subhash Chand Yogi</a>, Md Waris Khan and Laxmidhar Behera, ”<b>Adaptive Learning based Fixed-time Sliding ModeControl Scheme for Uncertain Quadrotors with Experiments</b>”, <i>IEEE Transactions on Industrial Electronics </i> (Revision to be submitted).</li>
 <!--  7 -->
   <li> Padmini Singh, <a class="highlighted">Subhash Chand Yogi</a>, Laxmidhar Behera, Nishchal K. Verma, Saeid Nahavandi, ”<b>Passivity Based Event-triggered Control for Mobile Robot in Presence of Network Uncertainties</b>”, <i>IEEE Transactions on Cybernatics </i> (Under Revision).</li>
 </ol>
